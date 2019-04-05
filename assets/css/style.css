@@ -1,0 +1,66 @@
+body {
+    background-image: url("../img/prism.png");
+}
+
+.container {
+    max-width: 1600px;
+}
+
+.lRow {    
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+    text-align: center;    
+}
+
+#profile {
+    margin-top: 5.1em;
+    border-radius: 25%;
+}
+
+#contact {
+    margin-top: 20em;
+        
+}
+
+#contact h1 {
+    margin-left: 2em;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
+
+#about {
+    margin-top: 14em;
+    /* background: #363636; */
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+
+}
+
+p {
+    font-size: 1.3em;
+}
+
+#portfolio {
+    margin-top: 5em;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+
+#portfolio .five {
+    margin-bottom: 2em;
+}
+
+#portfolio h4 {
+    text-align: center;
+}
+
+#aboutbtn, #portbtn, #conbtn, #resbtn {
+    cursor: pointer;
+}
+
+#welcome {
+    margin-top: 5em;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
